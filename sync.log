@@ -296,3 +296,20 @@ To https://github.com/shuzurenceshi/ideatodo.git
 /root/ideatodo/auto-sync.sh: line 17: npm: command not found
 /root/ideatodo/auto-sync.sh: line 18: wrangler: command not found
 [2026-03-17 22:05:01] Cloudflare 部署成功
+[main 15de6bd] auto: 同步更新 - 2026-03-17 22:10:01
+ 70 files changed, 184 insertions(+), 112 deletions(-)
+ delete mode 100644 .next/static/chunks/app/page-56f979c7f42d7410.js
+ delete mode 100644 .next/static/chunks/app/plan/page-4d5b2b194425f959.js
+ delete mode 100644 .next/static/chunks/app/tasks/page-23124d6ca704098d.js
+ delete mode 100644 .next/static/chunks/main-e7477673a7f72cd7.js
+ delete mode 100644 .next/static/chunks/webpack-9d964d8cb0d81fe9.js
+ delete mode 100644 .next/static/css/c37d52c5c6d452d2.css
+ delete mode 100644 .next/static/yAJKHQpkxsy00poYvStO1/_buildManifest.js
+ delete mode 100644 .next/static/yAJKHQpkxsy00poYvStO1/_ssgManifest.js
+ create mode 100644 src/components/AuthButton.tsx
+To https://github.com/shuzurenceshi/ideatodo.git
+   866d3bd..15de6bd  main -> main
+[2026-03-17 22:10:01] GitHub 同步成功
+/root/ideatodo/auto-sync.sh: line 17: npm: command not found
+/root/ideatodo/auto-sync.sh: line 18: wrangler: command not found
+[2026-03-17 22:10:01] Cloudflare 部署成功
