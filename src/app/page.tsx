@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { tasks, categories } from '@/data/tasks';
+import AuthButton from '@/components/AuthButton';
 
 export default function Home() {
   return (
@@ -10,13 +11,14 @@ export default function Home() {
           <Link href="/" className="text-xl font-bold text-blue-500">
             IdeaToDo
           </Link>
-          <div className="flex gap-6 text-sm text-gray-600">
+          <div className="flex items-center gap-6 text-sm text-gray-600">
             <Link href="/tasks" className="hover:text-blue-500 transition-colors">
               热门任务
             </Link>
             <Link href="/plan" className="hover:text-blue-500 transition-colors">
               生成方案
             </Link>
+            <AuthButton />
           </div>
         </div>
       </nav>

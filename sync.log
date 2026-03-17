@@ -285,3 +285,14 @@ To https://github.com/shuzurenceshi/ideatodo.git
 /root/ideatodo/auto-sync.sh: line 17: npm: command not found
 /root/ideatodo/auto-sync.sh: line 18: wrangler: command not found
 [2026-03-17 22:00:01] Cloudflare 部署成功
+[main 866d3bd] auto: 同步更新 - 2026-03-17 22:05:01
+ 6 files changed, 240 insertions(+), 3 deletions(-)
+ create mode 100644 src/app/auth/callback/page.tsx
+ create mode 100644 src/hooks/useAuth.ts
+ create mode 100644 src/lib/supabase.ts
+To https://github.com/shuzurenceshi/ideatodo.git
+   34b1f16..866d3bd  main -> main
+[2026-03-17 22:05:01] GitHub 同步成功
+/root/ideatodo/auto-sync.sh: line 17: npm: command not found
+/root/ideatodo/auto-sync.sh: line 18: wrangler: command not found
+[2026-03-17 22:05:01] Cloudflare 部署成功
