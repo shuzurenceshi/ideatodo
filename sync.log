@@ -2241,3 +2241,11 @@ To https://github.com/shuzurenceshi/ideatodo.git
 /root/ideatodo/auto-sync.sh: line 17: npm: command not found
 /root/ideatodo/auto-sync.sh: line 18: wrangler: command not found
 [2026-03-18 18:15:01] Cloudflare 部署成功
+[main d78a5ca] auto: 同步更新 - 2026-03-18 18:20:01
+ 1 file changed, 8 insertions(+)
+To https://github.com/shuzurenceshi/ideatodo.git
+   b9dcdcd..d78a5ca  main -> main
+[2026-03-18 18:20:01] GitHub 同步成功
+/root/ideatodo/auto-sync.sh: line 17: npm: command not found
+/root/ideatodo/auto-sync.sh: line 18: wrangler: command not found
+[2026-03-18 18:20:01] Cloudflare 部署成功
